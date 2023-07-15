@@ -1,4 +1,4 @@
-# 42Ecole Proje Deposu
+# 42Ecole Proje Deposu | Code Kısmına BASIN!!
 
 Sıkça Kullanılan Unix Kodlar
 
